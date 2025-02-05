@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(85,36): warning C4551: function call missing argument list
+C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(96,36): warning C4551: function call missing argument list
+C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(107,36): warning C4551: function call missing argument list
+C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(118,36): warning C4551: function call missing argument list
+C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(172,2): error C2664: 'void PrintMat(char [][11])': cannot convert argument 1 from 'char [10][10]' to 'char [][11]'
+      C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(172,11):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(40,6):
+      see declaration of 'PrintMat'
+      C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(172,2):
+      while trying to match the argument list '(char [10][10])'
+  
+C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(181,4): error C2664: 'void PrintMat(char [][11])': cannot convert argument 1 from 'char [10][10]' to 'char [][11]'
+      C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(181,13):
+      Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(40,6):
+      see declaration of 'PrintMat'
+      C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(181,4):
+      while trying to match the argument list '(char [10][10])'
+  
+C:\Users\amit_\source\repos\BooliPackmenAmitYeffet\BooliPackmen\BooliPackmen\Source.cpp(200,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
